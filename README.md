@@ -5,7 +5,7 @@ A responsive and modern **Weather Application** built using **HTML, CSS, and Jav
 ## 🚀 Live Demo
 
 **GitHub Pages:**
-`https://RAJAMANI01.github.io/weather-app/`
+`https://rajamani01.github.io/weather-app/`
 
 ## 📌 Features
 
